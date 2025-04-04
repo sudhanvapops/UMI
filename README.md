@@ -42,8 +42,7 @@ npm run dev  # or yarn dev
 
 .
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
 For inquiries, reach out at [sudhanvapops@gmail.com](mailto:your.email@example.com).
